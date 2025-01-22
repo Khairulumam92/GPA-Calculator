@@ -1,5 +1,8 @@
 public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+    public static void main(String[] args){
+        float SumGPA = 3.65;
+        System.out.println("=== GPA Calculator ===");
+        System.out.println("number of courses: ");
+        System.out.println("Your GPA is: " + SumGPA());
     }
 }
