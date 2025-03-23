@@ -4,5 +4,6 @@ public class App {
         System.out.println("=== GPA Calculator ===");
         System.out.println("number of courses: ");
         System.out.println("Your GPA is: " + SumGPA);
+        System.out.println("thank you");
     }
 }
